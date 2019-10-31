@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["$","find","addClass"],"mappings":"AAAAA,CAAC,CAAC,OAAD,CAAD,CACGC,IADH,CACQ,QADR,EAEGC,QAFH,CAEY,KAFZ,EAGGA,QAHH,CAGY,OAHZ","file":"main.1f19ae8e.js","sourceRoot":"..\\src","sourcesContent":["$(\"#test\")\r\n  .find(\".child\")\r\n  .addClass(\"red\")\r\n  .addClass(\"black\");\r\n"]}
